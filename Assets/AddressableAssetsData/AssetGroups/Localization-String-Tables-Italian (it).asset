@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Italian (it)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Italian (it)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 84255873fdae44c41bd5397e629a11d6
+  m_SerializeEntries:
+  - m_GUID: a4e2cd813ce581e46b1126609524a4a2
+    m_Address: Common_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: cd3e85e2549c0014faa2286889d23bf8
+    m_Address: CubeStacking_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: 6659b892dd23a324bbd8834fec898243
+    m_Address: ColorWords_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  - m_GUID: c0bd352ccd38c59408712e731cf15d06
+    m_Address: TowerOfLondon_it
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-it
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a1a75596c329e64489ce03605f3c8f49, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d69d10c08b050054fb7c1d7e033b8594, type: 2}
+    - {fileID: 11400000, guid: bb4893b7b4a1f6f4c9f3ec1ef20596de, type: 2}

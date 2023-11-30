@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.xr2learnmagicxroom.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\mbesenzoni\\XR2Learn\\playground\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "xr2learn-magicxroom [Testing]"
+        }
+      }
+    }
+  ]
+}
