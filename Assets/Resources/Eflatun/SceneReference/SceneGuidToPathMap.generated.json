@@ -7,5 +7,9 @@
   "7fb811b0ffe615b4dbf1d5e6ced385fd": "Assets/Plugins/SteamVR/Extras/SteamVR_TestTrackedCamera.unity",
   "e3b77830391f10343929883b18f4d5ae": "Assets/Plugins/SteamVR/InteractionSystem/Samples/Interactions_Example.unity",
   "55f0e497bac1408458ff9dcebe0b775a": "Assets/Plugins/SteamVR/Simple Sample.unity",
+  "442215360aef07847ac6dc9a96f5c584": "Assets/ViveSR/Scenes/Eye/EyeSample.unity",
+  "95faae79a7fda8248a4f435507170572": "Assets/ViveSR/Scenes/Eye/EyeSample_v2.unity",
+  "9c5916c10af9ceb469ce71edc027a554": "Assets/ViveSR/Scenes/Lip/LipSample.unity",
+  "c11dda60218b88142a79969ac1006896": "Assets/ViveSR/Scenes/Lip/LipSample_v2.unity",
   "65df34f84fb2cea4a8f5a063c11069c0": "Assets/XR2Learn/Environment/MagicXroom.unity"
 }
