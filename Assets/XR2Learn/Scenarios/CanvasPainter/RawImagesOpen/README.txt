@@ -1,0 +1,1 @@
+All PNG cliparts in this folder originate from https://hiclipart.com and are meant for Non-Commercial Use, no attribution required.

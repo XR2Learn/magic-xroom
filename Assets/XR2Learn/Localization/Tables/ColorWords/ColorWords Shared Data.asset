@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ColorWords Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ColorWords
+  m_TableCollectionNameGuidString: cf6831083107a014bb69a6d863787de9
+  m_Entries:
+  - m_Id: 3006938370048
+    m_Key: colors.red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006984507392
+    m_Key: colors.green
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006984507393
+    m_Key: colors.blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701696
+    m_Key: colors.yellow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701697
+    m_Key: colors.magenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701698
+    m_Key: colors.cyan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701699
+    m_Key: colors.black
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701700
+    m_Key: colors.white
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006988701701
+    m_Key: colors.gray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5563739951104
+    m_Key: timer.remaining
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3145296273120428090
+  references:
+    version: 2
+    RefIds:
+    - rid: 3145296273120428090
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1678786616791

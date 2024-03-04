@@ -2,6 +2,7 @@
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.eflatun.scenereference": "git+https://github.com/starikcetin/Eflatun.SceneReference.git#2.1.0",
+    "com.gameworkstore.googleprotobufunity": "https://github.com/GameWorkstore/google-protobuf-unity.git",
     "com.htc.upm.vive.openxr": "2.0.0",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.feature.development": "1.0.1",

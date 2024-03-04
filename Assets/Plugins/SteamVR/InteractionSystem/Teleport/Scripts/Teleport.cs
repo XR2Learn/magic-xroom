@@ -132,7 +132,7 @@ namespace Valve.VR.InteractionSystem
         {
             return new SteamVR_Events.Action<TeleportMarkerBase>(PlayerPre, action);
         }
-        
+
         //-------------------------------------------------
         private static Teleport _instance;
 
