@@ -32,8 +32,8 @@ The minimum requirements in terms of hardware sensors are a Virtual Reality head
 
 Executables for the Magic Xroom can be found at the following links:
 
-- <a href="https://drive.google.com/file/d/17Z0y-C6-brqVHYVM1DW26l3PzN4FvaZw/view?usp=sharing">Magic Xroom v1.0</a/>
-- <a href="https://drive.google.com/file/d/1drwbWHae6RPAt2eQTEAP8JWgdKB722Vs/view?usp=sharing">Magic Xroom v1.1</a/>
+- <a href="https://drive.google.com/file/d/17Z0y-C6-brqVHYVM1DW26l3PzN4FvaZw/view?usp=sharing">Magic Xroom v1.0</a>
+- <a href="https://drive.google.com/file/d/1drwbWHae6RPAt2eQTEAP8JWgdKB722Vs/view?usp=sharing">Magic Xroom v1.1</a>
 
 ## Installation
 
