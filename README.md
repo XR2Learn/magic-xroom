@@ -376,7 +376,7 @@ The following is a comprehensive list of known issues and potential bugs related
 
 ### SRanipal
 
-SRanipal serves as the runtime environment, enabling interaction with the Vive Facial Tracker and related Vive eye/face tracking hardware on Windows PCs. It is currently the only option for the Vive Focus face and eye accessories. A review of the existing online resources, including documentation, support, and code, indicates that SRanipal is not yet in a finalized release state.
+SRanipal serves as the runtime environment, enabling interaction with the Vive Facial Tracker and related Vive eye/face tracking hardware on Windows PCs. A review of the existing online resources, including documentation, support, and code, indicates that SRanipal is not yet in a finalized release state.
 
 To provide a better understanding of the current state of the SRanipal framework, the following are a few examples of the many issues found during development which one would usually not expect from this type of software:
 
@@ -396,25 +396,16 @@ It is important to note that the version of SRanipal installed on the computer c
 
 We will closely monitor future releases of this framework and evaluate potential upgrades of the version used for the Magic Xroom.
 
-### VR tracking area
-
-For consistent performance with the Vive Focus headset, the user must stay within the predefined tracking zone. Should the controllers or headset move beyond the boundaries of this area, updates to their positional and rotational data might cease, and this interruption will persist even upon re-entering the designated tracking zone.
-
-The best solution currently is to monitor the user's movements during data collection strictly.
-
-### Unity physics engine
-
-During the operation of the Magic Xroom application, it has been documented that removing the headset activates a 'low performance' mode, resulting in a reduced application refresh rate. This adjustment adversely impacts the Unity physics engine, as it may cause frames to be skipped or not processed within the anticipated timeframe. Consequently, objects within the virtual reality environment can unexpectedly accelerate to excessive velocities, potentially colliding with other objects and disrupting specific scenarios.
-
-The recommended corrective action, in situations where the physics within the virtual environment break, is to restart the application and resume from the point before the disruption.
-
-Further testing of the Unity layers and colliders systems is necessary to understand what triggers these situations and to develop ways to prevent them.
-
 ### Vive Focus eye tracker
 
 The Vive Focus eye tracker is positioned between the headset lenses and the padding. Despite its slim profile, it introduces a gap that causes visual blurriness. Adjustments to the headset position or interpupillary distance offer minimal improvement. This issue has been widely reported by users as the cause of diminished virtual reality immersion, complicated text readability, and impaired depth perception. Furthermore, the accuracy of data collected from users who wear thick prescription glasses or glasses with wide frames is notably compromised, leading to data loss or inconsistent outcomes from the eye tracker.
 
   <img src="Images/eye-tracker.png" width="300px" alt="Vive Focus eye tracker">
+
+## Issues
+Found a bug? Want a new feature? Have questions? Head to the [issues](https://github.com/XR2Learn/magic-xroom/issues) tab.
+
+Don't know what an issue is? Head to the [tech wiki](https://github.com/XR2Learn/.github/wiki) for a [short guide](https://github.com/XR2Learn/.github/wiki/How-to-Use-GitHub-Issues).
 
 ## License
 
